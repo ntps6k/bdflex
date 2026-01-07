@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BDFLEX</string>
+    <string name="app_summary">Sync files from your phone to your PC over a local connection.</string>
+    <string name="app_status">Status: Waiting for device pairing.</string>
+</resources>
